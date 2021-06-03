@@ -12,6 +12,6 @@ Discord初心者へのドキュメントでもあり、利用者に対しての�
 
 ## 目次
 ### セキュリティー
-- [PC版・モバイル版の2FAの有効化](/Security/2FA.md)
+- [PC版・モバイル版の2FAの有効化](Security/2FA.md)
 ### その他
 - [ドキュメントへの参加](DocumentsAuthor/how-to.md)
