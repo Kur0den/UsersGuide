@@ -36,3 +36,7 @@
 #### 3. メンションされたチャンネルにサポートセンターが開きます。
 
 ![image*5](https://media.discordapp.net/attachments/812277834960601129/850614750685691966/unknown.png?width=720&height=405)
+
+#### 4. サポートを受けます。
+
+[ホームページ](../README.md)

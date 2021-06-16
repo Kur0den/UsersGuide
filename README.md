@@ -1,23 +1,23 @@
-# BFJ-Documents
+# BFJ Users Guide
 
-これはDiscordコミュニティー 【BattlefieldJapanCommunity】の公式ドキュメントです。
-Discord初心者へのドキュメントでもあり、利用者に対してのドキュメントでもあります。
+これはDiscordコミュニティー 【BattlefieldJapanCommunity】の公式ガイドブックです。
+Discord初心者へのガイドブックでもあり、利用者に対してのガイドブックでもあります。
 
-## このドキュメントへの協力
-このドキュメントは公開されており、ドキュメント編集は鯖民が参加することが出来ます。
+## このガイドブックへの協力
+このガイドブックは公開されており、ガイドブックの編集は鯖民が参加することが出来ます。
 詳しくは [こちら](/DocumentsAuthor/how-to.md) をご覧ください。
 
 ## Discordに参加する
+
 <iframe src="https://discord.com/widget?id=842819762560172103&theme=dark" width="700" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## 目次
-### 各BOTの使い方
-- [Battlefield Statsの使い方](./how-to-bot/bfs.md)
-### 各チャンネルの使い方
-- [全チャンネルの使い方](./How-to-channel/how-to-allchannel.md)
+### コミュニティーの使い方
+#### チャンネルの使い方
 - [サポートチャンネルの使い方](./How-to-channel/how-to-support.md)
-### セキュリティー
-- [PC版・モバイル版の2FAの有効化](Security/2FA.md)
+### BOTの使い方
+- [Battlefield Statsの使い方](./how-to-bot/bfs.md)
 ### その他
-- [ドキュメントへの参加](DocumentsAuthor/how-to.md)
+- [PC版・モバイル版の2FAの有効化](Security/2FA.md)
+- [ガイドブックへの参加](DocumentsAuthor/how-to.md)
 - [運営チーム](./Other/mod.md)

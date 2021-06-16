@@ -1,13 +1,12 @@
 # ドキュメントに参加する
-> Home > How-to
 
-## Discordから参加する
-公式Discordから参加することが出来ます。
-チャンネル `#記事案・修正など` で貴方のアイデアを共有してください！
-![Image*1](https://cdn.discordapp.com/attachments/845566542392983572/849997452147818507/unknown.png)
+以下の方法でユーザーガイドブックの編集や開発に参加できます。
 
-## 直接参加する
-Markdownと少しのGithubの知識がある場合は直接参加することもできます。
-[こちらのPR(pullRequest)ページ](https://github.com/BattleField6-JapanCommunity/Documents/pulls) でPull Requestを送信してください。レビュー後、反映させます。
+## ユーザーガイドブックへ参加する
+### Discordからの参加
+`#記事希望` に記事にしてほしい内容を教えて下さい！
+### GitHubからの参加
+GitHubから直接参加する場合は [GitHub参加ガイド](https://github.com/BattleField6-JapanCommunity/Documents-GitHub/blob/main/README.md) を読んで、 [このリポジトリ](https://github.com/BattleField6-JapanCommunity/Documents) にプルリクエストを送ってください。
+わからないことがありましたら `#質問など` にどうぞ。
 
 #### [ホームへ戻る](../README.md)

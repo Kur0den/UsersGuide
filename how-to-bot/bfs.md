@@ -22,3 +22,5 @@
 `!bf4stats <pc/ps3/ps4/xbox360/xboxone> <username>`
 #### Battlefield Hardline
 `!bfhstats <pc/ps3/ps4/xbox360/xboxone> <username>`
+
+[ホームページ](../README.md)
