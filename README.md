@@ -20,6 +20,7 @@ Discord初心者へのガイドブックでもあり、利用者に対しての�
 - [サポートチャンネルの使い方](./How-to-channel/how-to-support.md)
 
 ### BOTの使い方
+- [Battlefield 2042(bot)の使い方](./how-to-bot/bf2042.md)
 - [Battlefield Statsの使い方](./how-to-bot/bfs.md)
 
 ### その他
