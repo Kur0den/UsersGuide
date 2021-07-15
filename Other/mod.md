@@ -18,28 +18,40 @@
 | 1942担当 | Battlefield1942 担当 |
 
 ### 運営チーム一覧(Discord順)
+
 #### 5don
 担当: BFH2 発売祈願(あきらめてません)
+
 #### Clixdex
 担当: 相談役
+
 #### Eda / Edo
 担当: 管理, Bot
+
 #### Lab_WLM
 担当: コミュ鯖・1942担当
+
 #### Lenko
 担当: Bot&企画
+
 #### Meru(merunno)
 担当: 管理, BOT, ドキュメント
+
 #### Pluton_JP
 担当: 相談役
+
 #### tks
 担当: bot系
+
 #### Tomoya_Marble
 担当: 相談役
+
 #### にぁ
 担当: Bot
+
 #### りきちん
 担当: 管理＆雑務
+
 #### ソバルト
 担当: 管理者
 
