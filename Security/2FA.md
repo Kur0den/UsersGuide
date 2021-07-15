@@ -6,7 +6,7 @@
 ***How to 2FA!!!!!!!!!!***
 
 ### 2FAを有効化しよう / PC版
-PC版への有効化の方法はDiscord ヘルプセンターが一番わかり易いためこちらをご覧ください。
+PC版での有効化の方法はDiscord ヘルプセンターが一番わかり易いためこちらをご覧ください。
 
 [二段階認証のセットアップ - Discordヘルプセンター](https://support.discord.com/hc/ja/articles/219576828)
 
@@ -17,15 +17,17 @@ PC版への有効化の方法はDiscord ヘルプセンターが一番わかり�
 
 #### 2. "２要素認証" をタップ
 
-#### 3. 本人確認のため、パスワードを入力します。
+#### 3. 本人確認のため、パスワードを入力
 
 #### 4. 認証用アプリをインストール
 ここが一番の鬼門。認証用のアプリを用意します。
 
+##### Google認証システム
 - [Google 認証システム - IOS](https://apps.apple.com/jp/app/google-authenticator/id388497605)
 
 - [Google 認証システム - Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=ja&gl=US)
 
+##### Authy
 - [Authy - IOS](https://itunes.apple.com/us/app/authy/id494168017)
 
 - [Authy - Android](https://play.google.com/store/apps/details?id=com.authy.authy)
