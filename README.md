@@ -21,7 +21,7 @@ Discord初心者へのガイドブックでもあり、利用者に対しての�
 
 ### BOTの使い方
 - [Battlefield Statsの使い方](./how-to-bot/bfs.md)
-- [Rythm,Rythn2の使い方](.how-to-bot/rythm.md)
+- [Rythm,Rythn2の使い方](./how-to-bot/rythm.md)
 
 ### その他
 - [PC版・モバイル版の2FAの有効化](Security/2FA.md)
