@@ -34,7 +34,7 @@ Rythmの場合は`!`を、Rythm2の場合には`>`を、スラッシュコマン
 
 - `soundcloud <曲のURL/名前>`(`sc`)
   
-  指定された名前/URLでSoundCloudから曲を再生します。
+  指定された名前/URLで[SoundCloud](https://m.soundcloud.com/)から曲を再生します。
 
 - `nowplaying`(`np`)
   
