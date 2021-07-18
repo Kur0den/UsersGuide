@@ -136,6 +136,7 @@ Rythmの場合は`!`を、Rythm2の場合には`>`を、スラッシュコマン
 
 
 ### koodos関係
+
 詳しくは[ここから](https://rythm.fm/docs/koodos/#song-of-the-day)
 
 - `sotd` 
